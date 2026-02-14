@@ -1,0 +1,56 @@
+
+.hero-section {
+  padding-top: 80px;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero-video {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
+
+.service-icon {
+  width: 80px;
+  height: 80px;
+}
+
+.service-icon i {
+  font-size: 2rem;
+  color: white;
+}
+
+.who-we-serve-section {
+  background-color: #f8f9fa;
+  margin: 0 -15px;
+}
+
+.who-we-serve-icon {
+  font-size: 3rem;
+}
+
+.gallery-image {
+  height: 500px;
+  object-fit: cover;
+}
+
+.about-content {
+  max-width: 800px;
+}
+
+.about-feature-icon {
+  font-size: 2rem;
+}
+
+.whatsapp-btn {
+  background-color: #25D366 !important;
+  border-color: #25D366 !important;
+}
+
+.whatsapp-btn:hover {
+  background-color: #128C7E !important;
+  border-color: #128C7E !important;
+}
