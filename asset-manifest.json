@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-demo-app/static/css/main.dd3d54a0.css",
-    "main.js": "/react-demo-app/static/js/main.78080530.js",
-    "static/js/453.44b52d1e.chunk.js": "/react-demo-app/static/js/453.44b52d1e.chunk.js",
-    "static/media/image9.mp4": "/react-demo-app/static/media/image9.37be12965b340026793c.mp4",
-    "static/media/image6.jpeg": "/react-demo-app/static/media/image6.25dd790c6d26b67a2124.jpeg",
-    "static/media/image3.jpeg": "/react-demo-app/static/media/image3.431ce2bfb631bc623ca2.jpeg",
-    "static/media/image5.jpeg": "/react-demo-app/static/media/image5.d57efd15c0572ca9e80a.jpeg",
-    "static/media/image8.jpeg": "/react-demo-app/static/media/image8.7fc55becb1d829c61700.jpeg",
-    "static/media/image2.jpeg": "/react-demo-app/static/media/image2.b590addd887a334050c6.jpeg",
-    "static/media/image4.jpeg": "/react-demo-app/static/media/image4.d722d99fd36212e35dec.jpeg",
-    "static/media/image7.jpeg": "/react-demo-app/static/media/image7.499b3af2852a695cd46d.jpeg",
-    "static/media/image1.jpeg": "/react-demo-app/static/media/image1.28f692ab9a13ef2448ac.jpeg",
-    "index.html": "/react-demo-app/index.html",
-    "main.dd3d54a0.css.map": "/react-demo-app/static/css/main.dd3d54a0.css.map",
-    "main.78080530.js.map": "/react-demo-app/static/js/main.78080530.js.map",
-    "453.44b52d1e.chunk.js.map": "/react-demo-app/static/js/453.44b52d1e.chunk.js.map"
+    "main.css": "/Put-In-Studios/static/css/main.dd3d54a0.css",
+    "main.js": "/Put-In-Studios/static/js/main.7e28cbcd.js",
+    "static/js/453.44b52d1e.chunk.js": "/Put-In-Studios/static/js/453.44b52d1e.chunk.js",
+    "static/media/image9.mp4": "/Put-In-Studios/static/media/image9.37be12965b340026793c.mp4",
+    "static/media/image6.jpeg": "/Put-In-Studios/static/media/image6.25dd790c6d26b67a2124.jpeg",
+    "static/media/image3.jpeg": "/Put-In-Studios/static/media/image3.431ce2bfb631bc623ca2.jpeg",
+    "static/media/image5.jpeg": "/Put-In-Studios/static/media/image5.d57efd15c0572ca9e80a.jpeg",
+    "static/media/image8.jpeg": "/Put-In-Studios/static/media/image8.7fc55becb1d829c61700.jpeg",
+    "static/media/image2.jpeg": "/Put-In-Studios/static/media/image2.b590addd887a334050c6.jpeg",
+    "static/media/image4.jpeg": "/Put-In-Studios/static/media/image4.d722d99fd36212e35dec.jpeg",
+    "static/media/image7.jpeg": "/Put-In-Studios/static/media/image7.499b3af2852a695cd46d.jpeg",
+    "static/media/image1.jpeg": "/Put-In-Studios/static/media/image1.28f692ab9a13ef2448ac.jpeg",
+    "index.html": "/Put-In-Studios/index.html",
+    "main.dd3d54a0.css.map": "/Put-In-Studios/static/css/main.dd3d54a0.css.map",
+    "main.7e28cbcd.js.map": "/Put-In-Studios/static/js/main.7e28cbcd.js.map",
+    "453.44b52d1e.chunk.js.map": "/Put-In-Studios/static/js/453.44b52d1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd3d54a0.css",
-    "static/js/main.78080530.js"
+    "static/js/main.7e28cbcd.js"
   ]
 }
